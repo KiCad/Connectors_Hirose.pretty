@@ -1,10 +1,10 @@
-(module Hirose_DF13-3P-DSA_03x1.25mm_Straight_PTH (layer F.Cu) (tedit 56CC516B)
+(module Hirose_DF13-3P-125DSA_03x1.25mm_Straight_PTH (layer F.Cu) (tedit 56CC5B34)
   (descr "Hirose DF13 series connector, 1.25mm pitch, top entry PTH")
   (tags "connector hirose df13 top straight vertical through thru hole")
   (fp_text reference REF** (at 0 2.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Hirose_DF13-3P-DSA_03x1.25mm_Straight_PTH (at 0 4) (layer F.Fab)
+  (fp_text value Hirose_DF13-3P-125DSA_03x1.25mm_Straight_PTH (at 0 4) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -1.55 -2.3) (end -1.55 1.3) (layer F.SilkS) (width 0.15))
@@ -43,7 +43,7 @@
   (pad 1 thru_hole rect (at 0 0) (size 0.95 1.25) (drill 0.6) (layers *.Cu *.Mask F.SilkS))
   (pad 2 thru_hole oval (at 1.25 0) (size 0.95 1.25) (drill 0.6) (layers *.Cu *.Mask F.SilkS))
   (pad 3 thru_hole oval (at 2.5 0) (size 0.95 1.25) (drill 0.6) (layers *.Cu *.Mask F.SilkS))
-(model Connectors_Hirose.3dshapes/Hirose_DF13-3P-DSA_03x1.25mm_Straight_PTH.wrl
+(model Connectors_Hirose.3dshapes/Hirose_DF13-3P-125DSA_03x1.25mm_Straight_PTH.wrl
 	(at (xyz 0.0492125984252 0 0))
 	(scale (xyz 1 1 1))
 	(rotate (xyz 0 0 180)))
