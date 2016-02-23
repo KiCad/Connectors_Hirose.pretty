@@ -1,4 +1,4 @@
-(module Hirose_DF13-13P-125DSA_13x1.25mm_Straight_PTH (layer F.Cu) (tedit 56CC5B34)
+(module Hirose_DF13-13P-125DSA_13x1.25mm_Straight_PTH (layer F.Cu) (tedit 56CC5D49)
   (descr "Hirose DF13 series connector, 1.25mm pitch, top entry PTH")
   (tags "connector hirose df13 top straight vertical through thru hole")
   (fp_text reference REF** (at 0 2.5) (layer F.SilkS)
