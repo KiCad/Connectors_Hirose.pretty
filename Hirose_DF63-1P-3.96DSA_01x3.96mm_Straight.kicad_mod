@@ -1,4 +1,4 @@
-(module Hirose_DF63-1P-3.96DSA_01x3.96mm_Straight (layer F.Cu) (tedit 57B43BEB)
+(module Hirose_DF63-1P-3.96DSA_01x3.96mm_Straight (layer F.Cu) (tedit 57F0E1A8)
   (descr "Hirose DF63 connector, DF63-1P-3.96DSA, 3.96mm pitch, top entry THT")
   (tags "connector hirose df63 vertical through hole")
   (fp_text reference REF** (at 0 -5.2) (layer F.SilkS)
