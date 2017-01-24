@@ -1,6 +1,7 @@
 (module DM3AT-SF-PEJM5 (layer F.Cu) (tedit 5885CA0B)
   (descr "MicroSD card socket")
   (tags "MicroSD card socket")
+  (attr smd)
   (fp_text reference REF** (at 8.89 0 90) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
