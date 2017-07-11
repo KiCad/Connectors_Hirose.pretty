@@ -162,7 +162,7 @@
   (pad 12 thru_hole oval (at 13.75 0) (size 0.95 1.25) (drill 0.6) (layers *.Cu *.Mask))
   (pad 13 thru_hole oval (at 15 0) (size 0.95 1.25) (drill 0.6) (layers *.Cu *.Mask))
   (pad 14 thru_hole oval (at 16.25 0) (size 0.95 1.25) (drill 0.6) (layers *.Cu *.Mask))
-  (model Connectors_Hirose.3dshapes/Hirose_DF13-14P-1.25DS_14x1.25mm_Angled.wrl
+  (model ${KISYS3DMOD}/Connectors_Hirose.3dshapes/Hirose_DF13-14P-1.25DS_14x1.25mm_Angled.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

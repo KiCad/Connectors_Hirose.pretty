@@ -50,7 +50,7 @@
   (pad 8 thru_hole oval (at 8.75 0) (size 0.95 1.25) (drill 0.6) (layers *.Cu *.Mask))
   (pad 9 thru_hole oval (at 10 0) (size 0.95 1.25) (drill 0.6) (layers *.Cu *.Mask))
   (pad 10 thru_hole oval (at 11.25 0) (size 0.95 1.25) (drill 0.6) (layers *.Cu *.Mask))
-  (model Connectors_Hirose.3dshapes/Hirose_DF13-10P-1.25DSA_10x1.25mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_Hirose.3dshapes/Hirose_DF13-10P-1.25DSA_10x1.25mm_Straight.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

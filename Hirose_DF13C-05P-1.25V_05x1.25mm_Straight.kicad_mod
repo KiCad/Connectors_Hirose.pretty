@@ -49,7 +49,7 @@
   (pad 5 smd rect (at 2.5 -1.4) (size 0.7 1.8) (drill 0) (layers F.Cu F.Paste F.Mask))
   (pad "" smd rect (at 4.75 1.4) (size 1.6 2.2) (drill 0) (layers F.Cu F.Paste F.Mask))
   (pad "" smd rect (at -4.75 1.4) (size 1.6 2.2) (drill 0) (layers F.Cu F.Paste F.Mask))
-(model Connectors_Hirose.3dshapes/Hirose_DF13C-05P-1.25V_05x1.25mm_Straight.wrl
+(model ${KISYS3DMOD}/Connectors_Hirose.3dshapes/Hirose_DF13C-05P-1.25V_05x1.25mm_Straight.wrl
 	(at (xyz 0.0 -0.0275590551181 0))
 	(scale (xyz 1 1 1))
 	(rotate (xyz 0 0 0)))
