@@ -46,7 +46,7 @@
   (pad 4 thru_hole oval (at 3.75 0) (size 0.95 1.25) (drill 0.6) (layers *.Cu *.Mask))
   (pad 5 thru_hole oval (at 5 0) (size 0.95 1.25) (drill 0.6) (layers *.Cu *.Mask))
   (pad 6 thru_hole oval (at 6.25 0) (size 0.95 1.25) (drill 0.6) (layers *.Cu *.Mask))
-  (model Connectors_Hirose.3dshapes/Hirose_DF13-06P-1.25DSA_06x1.25mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_Hirose.3dshapes/Hirose_DF13-06P-1.25DSA_06x1.25mm_Straight.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
