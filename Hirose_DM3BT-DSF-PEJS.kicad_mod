@@ -8,7 +8,7 @@
   (fp_text value Hirose_DM3BT-DSF-PEJS (at 3.2 16.5) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text user KEEPOUT (at 9.625 3.675 90) (layer Dwgs.User)
+  (fp_text user KEEPOUT (at 9.625 3.675 90) (layer Cmts.User)
     (effects (font (size 0.5 0.5) (thickness 0.07)))
   )
   (fp_line (start 8.64 14.26) (end 8.64 14.71) (layer F.SilkS) (width 0.12))
